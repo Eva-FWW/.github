@@ -1,4 +1,4 @@
-Hi everyone, we're small team, that develops an application for the F.W.W. company.
+Hi everyone, we're small team, that develops an application for the F.W.W. company
 https://franzwertvollen.com/
 <!--
 
