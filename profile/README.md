@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi everyone, we're small team, that develops an application for the F.W.W. company.
 
 <!--
 
